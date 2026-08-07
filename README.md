@@ -1,7 +1,7 @@
 # RuMedJ-2016-2026-v4_1
 # Профилирование российских и белорусских медицинских журналов в Scopus (2016–2025)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.21838552)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 📌 О проекте
@@ -176,7 +176,7 @@ files.download('table_dynamics.csv')
 Название: Profiling of Russian and Belarusian Medical Journals in Scopus (2016–2025)
 Год: 2025
 Версия: v4.1
-DOI: 10.5281/zenodo.XXXXXXX 
+DOI: 10.5281/zenodo.21838552
 Ссылка: https://github.com/Maxim7007/RuMedJ-2016-2026-v4_1
 
 ## ⚖️ Лицензия
